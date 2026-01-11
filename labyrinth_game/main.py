@@ -66,7 +66,7 @@ def process_command(game_state: dict, command: str) -> None:
         print("Неверная команда!")
         show_help()
 
-# Основная функуия
+# Основная функция
 def main():
   game_state = {
         'player_inventory': [], # Инвентарь игрока

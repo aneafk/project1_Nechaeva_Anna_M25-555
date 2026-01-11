@@ -27,3 +27,6 @@
 Добраться до комнаты treasure_room и открыть сундук помощью:
 1) С помощью ключа (предмет treasure_key)
 2) С помощью кода (команда solve)
+
+## Ссылка на 
+https://asciinema.org/a/XsJnQzmY2TbzugSa 
