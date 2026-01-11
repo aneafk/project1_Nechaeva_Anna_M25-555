@@ -3,7 +3,6 @@ from .constants import ROOMS
 from .utils import attempt_open_treasure, describe_current_room, random_event
 
 
-
 def show_inventory(game_state: dict) -> None:
   '''
   game_state - текущее состояние игры

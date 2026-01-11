@@ -15,7 +15,6 @@ from .constants import (  # noqa: E501
 )
 
 
-
 def describe_current_room(game_state: dict) -> None:
   '''
   game_state - текущее состояние игры
