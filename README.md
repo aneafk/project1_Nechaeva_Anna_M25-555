@@ -28,5 +28,5 @@
 1) С помощью ключа (предмет treasure_key)
 2) С помощью кода (команда solve)
 
-## Ссылка на 
+## Ссылка на демонстрацию игры
 https://asciinema.org/a/XsJnQzmY2TbzugSa 
